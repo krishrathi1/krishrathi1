@@ -1,0 +1,32 @@
+# GitHub Metrics for @krishrathi1
+name: Metrics
+on:
+  schedule: [{cron: "0 16 * * *"}]  # Runs daily at 16:00 UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: 🦑 Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          
+          # Plugins to enhance your GitHub profile metrics
+          plugin_isocalendar: yes  # Shows a yearly GitHub contribution heatmap
+          plugin_languages: yes  # Displays the most used programming languages
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, ejs  # Ignore unnecessary languages
+          plugin_languages_details: percentage, bytes-size, lines  # Show detailed language usage stats
+          plugin_languages_sections: most-used, recently-used  # Show both most-used and recent languages
+          plugin_achievements: yes  # Show GitHub achievements
+          plugin_achievements_display: compact  # Make achievements compact
+          plugin_topics: yes  # Display repositories' topics as icons
+          plugin_topics_mode: icons
+          plugin_activity: yes  # Show recent GitHub activity
+          plugin_followup: yes  # Show new followers and stars gained
+          plugin_repositories: yes  # Highlight starred repositories
+          plugin_repositories_featured: krishrathi1/Prescripto, krishrathi1/QuickFuel, krishrathi1/Alumni-Association  # Add featured repositories
