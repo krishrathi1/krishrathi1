@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBzbGUzejd1ZXFsMGE0YmMzM2JxanYwemRxdmJhajZ4eGUwbGFndyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 ###
 
