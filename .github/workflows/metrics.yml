@@ -1,0 +1,112 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit, and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use the metrics action
+
+name: Metrics
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: 🦑 General Stats
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general.svg
+          token: ${{ secrets.TOKEN }}
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, dockerfile, makefile, shell, vue, scala
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 5
+          plugin_topics: yes
+          plugin_topics_limit: 10
+          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_discussions: yes
+
+      - name: 🦑 Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
+
+      - name: 🦑 Sponsors
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: sponsors.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_sponsors: yes
+          plugin_sponsors_past: yes
+          plugin_sponsorships: yes
+          plugin_sponsorships_sections: amount
+
+      - name: 🦑 Media & Music
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: medias.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          config_order: anilist, music
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 5
+          plugin_anilist_limit_characters: 15
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.PLAYLIST }}
+          plugin_music_limit: 10
+
+      - name: 🦑 GitHub Activity
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-activity.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_activity: yes
+          plugin_activity_filter: issue, pr, fork, star
+          plugin_activity_limit: 5
+          plugin_activity_timestamps: yes
+
+      - name: 🦑 Wakatime (Coding Stats)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, languages, editors
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
