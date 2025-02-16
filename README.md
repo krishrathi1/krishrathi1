@@ -155,4 +155,6 @@
 <img src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/snake.svg" alt="Snake animation" />
 
 ###
+![Metrics](https://github.com/krishrathi1/krishrathi1/blob/main/github-metrics.svg)
+
 
