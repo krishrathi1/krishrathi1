@@ -36,7 +36,7 @@
 </div>
 
 ###
-[![Krish Rathi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&theme=dracula)](https://github.com/krishrathi1/github-readme-activity-graph)
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=krishrathi1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -51,4 +51,5 @@
 </picture>
 
 ###
+[![Krish Rathi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&theme=react-dark)](https://github.com/krishrathi1/github-readme-activity-graph)
 
