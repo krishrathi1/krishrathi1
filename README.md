@@ -13,10 +13,9 @@
   <h2><strong>💫 About Me</strong></h2>
   <p><strong>
   👋 Hey there! I'm Krish Rathi, an AI/ML & Full-Stack Developer who loves turning ideas into working code.<br/>
-  💬 I’ve built chatbots, EdTech SaaS, and AI-powered platforms that make tech more human.<br/>
+  💬 I’ve built chatbots, EdTech SaaS, and AI-powered platforms that make tech more human.
   🌱 Always learning, building, and hacking on something new.
   </strong></p>
-  <br/>
   <!-- 🏆 ACHIEVEMENTS SECTION -->
   <h2><strong>🏆 Achievements</strong></h2>
   <p><strong>
