@@ -8,6 +8,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Problem+Solver+;ChatBot+Developer;Full+Stack+Developer;StartUp+Founder" alt="Typing SVG" />
   </a>
 </div>
+<div>
+  <h2><strong>💫 About Me</strong></h2>
+  <p><strong>
+  👋 Hey there! I'm Krish Rathi, an AI/ML & Full-Stack Developer who loves turning ideas into working code.<br/>
+  💬 I’ve built chatbots, EdTech SaaS, and AI-powered platforms that make tech more human.<br/>
+  🌱 Always learning, building, and hacking on something new.
+  </strong></p>
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/krish-rathi-036222293/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
