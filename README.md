@@ -9,13 +9,26 @@
   </a>
 </div>
 <div>
+  <!-- 🧠 ABOUT ME SECTION -->
   <h2><strong>💫 About Me</strong></h2>
   <p><strong>
   👋 Hey there! I'm Krish Rathi, an AI/ML & Full-Stack Developer who loves turning ideas into working code.<br/>
   💬 I’ve built chatbots, EdTech SaaS, and AI-powered platforms that make tech more human.<br/>
   🌱 Always learning, building, and hacking on something new.
   </strong></p>
+  <br/>
+  <!-- 🏆 ACHIEVEMENTS SECTION -->
+  <h2><strong>🏆 Achievements</strong></h2>
+  <p><strong>
+  🥇 1st Prize — IIT Ropar Hackathon (Innovation) 2025<br/>
+  🥉 3rd Prize — AI Agentic Hackathon by Swafinix Technologies<br/>
+  🏅 4th Prize — Amity University App Innovation Challenge<br/>
+  🥈 2nd Prize — Innovik Hackathon<br/>
+  🔹 Top 25 — Google 30-Hour Agentic Hackathon<br/>
+  🎯 Finalist — LNMIIT Jaipur Hackathon
+  </strong></p>
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/krish-rathi-036222293/" target="_blank">
