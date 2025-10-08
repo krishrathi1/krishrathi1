@@ -3,27 +3,10 @@
 
 <h1 align="center">Hello World 👋, I'm Krish Rathi</h1>
 <h3 align="center">🚀 Full-Stack Web & AI/ML Developer | ChatBot Expert | Generative AI | Workflow Master |</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Problem+Solver+;ChatBot+Developer;Full+Stack+Developer;StartUp+Founder" alt="Typing SVG" /></a>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Problem+Solver+;ChatBot+Developer;Full+Stack+Developer;StartUp+Founder" alt="Typing SVG" />
+  </a>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/krish-rathi-036222293/" target="_blank">
