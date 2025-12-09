@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Full-Stack Web & AI/ML Developer | ChatBot Expert | Generative AI | Workflow Master |</h3>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Problem+Solver+;ChatBot+Developer;Full+Stack+Developer;StartUp+Founder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Problem+Solver+;ChatBot+Developer;Full+Stack+Developer;" alt="Typing SVG" />
   </a>
 </div>
 <div>
