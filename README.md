@@ -19,7 +19,7 @@
   <!-- 🏆 ACHIEVEMENTS SECTION -->
   <h2><strong>🏆 Achievements</strong></h2>
   <p><strong>
-  🥇 1st Prize — IIT Ropar Hackathon (Innovation) 2025<br/>
+  🥇 Winner — IIT Ropar Hackathon (Innovation) 2025<br/>
   🥉 3rd Prize — AI Agentic Hackathon by Swafinix Technologies<br/>
   🏅 4th Prize — Amity University App Innovation Challenge<br/>
   🔹 Top 25 — Google 30-Hour Agentic Hackathon<br/>
