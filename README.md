@@ -22,6 +22,7 @@
   🥇 Winner — Blostem Hackathon 2026 <br/>
   🥇 Winner — IIT Ropar Hackathon (Innovation) 2025<br/>
   🥉 3rd Prize — AI Agentic Hackathon by Swafinix Technologies<br/>
+  🥉 3rd Prize — U hack 4.0<br/>
   🏅 4th Prize — Amity University App Innovation Challenge<br/>
   🔹 Top 25 — Google 30-Hour Agentic Hackathon<br/>
   🎯 Finalist — LNMIIT Jaipur Hackathon
