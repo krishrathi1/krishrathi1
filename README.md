@@ -1,178 +1,250 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:2563eb,100:22c55e&text=Krish%20Rathi&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Problem%20Solver&descAlign=50&descAlignY=58&animation=fadeIn" alt="Krish Rathi profile banner" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050014,30:140026,60:0b1026,100:050014&height=300&section=header&text=Krish%20Rathi&fontSize=86&fontColor=c084fc&animation=fadeIn&fontAlignY=44&desc=AI%2FML%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20Chatbot%20Engineer%20%7C%20DSA%20Grinder&descColor=a855f7&descSize=20&descAlignY=65&stroke=c084fc&strokeWidth=2" alt="Krish Rathi header" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=900&center=true&vCenter=true&width=900&lines=I+build+AI-powered+products+that+feel+useful.;Full-Stack+Web+Developer+%7C+Chatbot+Engineer+%7C+Automation+Builder;Turning+hackathon+ideas+into+working+systems.;DSA+practice+on+LeetCode+and+GeeksforGeeks." alt="Typing introduction" />
-  </a>
-</p>
+<br clear="both">
 
-<p align="center">
-  <a href="https://github.com/krishrathi1">
-    <img src="https://img.shields.io/github/followers/krishrathi1?label=GitHub&style=for-the-badge&logo=github&color=181717&labelColor=111827" alt="GitHub followers" />
-  </a>
-  <a href="https://leetcode.com/u/krishrathi/">
-    <img src="https://img.shields.io/badge/LeetCode-krishrathi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=111827" alt="LeetCode profile" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/krishrathi">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-krishrathi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=111827" alt="GeeksforGeeks profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/krish-rathi-036222293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Rathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn profile" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=krishrathi1&style=for-the-badge&color=2563eb&label=Profile+Views" alt="Profile views" />
-</p>
+<div align="center">
 
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=17&pause=1500&color=C084FC&center=true&vCenter=true&width=900&lines=Full-Stack+Web+%2B+AI%2FML+Developer;Building+chatbots%2C+AI+platforms%2C+and+automation+systems;Hackathon+wins+%2B+real+shipping+energy;Grinding+DSA+on+LeetCode+and+GeeksforGeeks;Build+fast.+Think+deeply.+Ship+beautifully.)](https://github.com/krishrathi1)
+
+<br/>
+
+<a href="https://github.com/krishrathi1">
+  <img src="https://komarev.com/ghpvc/?username=krishrathi1&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" alt="Profile views" />
+</a>
+<a href="https://github.com/krishrathi1">
+  <img src="https://img.shields.io/github/followers/krishrathi1?style=for-the-badge&logo=github&label=FOLLOWERS&color=a855f7&labelColor=1a0a2e" alt="GitHub followers" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/quote.svg" alt="Quote banner" />
+</div>
+
+## About Me
+
+```ts
+class KrishRathi extends Developer {
+    name       = "Krish Rathi";
+    base       = "BML Munjal University, India";
+    focus      = ["Full-Stack Web", "AI/ML", "Generative AI", "Workflow Automation"];
+    builds     = ["Chatbots", "EdTech SaaS", "AI-powered platforms", "Agentic workflows"];
+    languages  = ["Java", "Python", "C++", "C", "JavaScript", "TypeScript", "SQL"];
+    dsa        = { platforms: ["LeetCode", "GeeksforGeeks"], mindset: "consistency > noise" };
+    superpower = "Turning hackathon chaos into clean, working products";
+
+    currently() {
+        return [
+            "shipping AI-first web products",
+            "building smarter chatbot and automation systems",
+            "strengthening DSA and backend fundamentals",
+            "learning by competing, iterating, and launching"
+        ];
+    }
+
+    connect() {
+        return "linkedin.com/in/krish-rathi-036222293";
+    }
+}
+
+export default new KrishRathi();
+```
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=krishrathi1&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/krishrathi1)
+
+</div>
+
+---
+
+## Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,mysql" alt="Languages" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,js,ts" alt="Frontend" />
+
+<br/><br/>
+
+**Backend, Database, Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,postgres,mysql,aws,docker,nginx,linux" alt="Backend database cloud" />
+
+<br/><br/>
+
+**AI, ML, Automation**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" alt="AI ML" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a0a2e" alt="LLMs" />
+<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a0a2e" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/Cohere-121212?style=for-the-badge&logo=cohere&logoColor=white&labelColor=1a0a2e" alt="Cohere" />
+<img src="https://img.shields.io/badge/Together%20AI-6B4EFF?style=for-the-badge&labelColor=1a0a2e" alt="Together AI" />
+<img src="https://img.shields.io/badge/Genkit%20AI-1E88E5?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a0a2e" alt="Genkit AI" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a0a2e" alt="n8n" />
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" alt="Tools" />
+
+</div>
+
+---
+
+## Signature Builds
+
+> Real problems. Fast prototypes. Serious polish.
+
+---
+
+### AI Chatbot Systems
+
+> Conversational products that turn messy user intent into useful actions.
+
+Built around LLMs, API calls, workflow logic, and human-friendly interfaces. This is where my full-stack work and AI curiosity meet the most.
+
+```txt
+STATUS : ACTIVE BUILD AREA
+FOCUS  : chatbots, AI assistants, prompt flows, tool-connected UX
+STACK  : React / Next.js / Node.js / Python / LLM APIs / Firebase
+```
+
+[![Explore Repos](https://img.shields.io/badge/EXPLORE_REPOS-krishrathi1-c084fc?style=for-the-badge&labelColor=1a0a2e&logo=github)](https://github.com/krishrathi1?tab=repositories)
+
+---
 
 <table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>About Me</h3>
-      <p>
-        I am <b>Krish Rathi</b>, a full-stack web and AI/ML developer from India who enjoys building products where software, intelligence, and automation meet.
-      </p>
-      <p>
-        My favorite kind of work sits at the edge of practical engineering and fast experimentation: chatbots, AI-powered platforms, EdTech SaaS, agentic workflows, and web apps that turn rough ideas into usable experiences.
-      </p>
-      <pre><code>Focus        Full-stack products, AI/ML systems, chatbots, automation
-Learning     DSA, scalable backend systems, agentic AI, production UX
-Mindset      Build fast, learn deeply, ship with polish
-Base         BML Munjal University, India</code></pre>
-    </td>
-    <td width="42%" valign="top">
-      <h3>Developer Console</h3>
-      <pre><code>name: Krish Rathi
-role: Full-Stack Web + AI/ML Developer
-speciality:
-  - Chatbot engineering
-  - Generative AI apps
-  - Workflow automation
-  - DSA problem solving
-currently:
-  - Building AI-powered platforms
-  - Practicing on LeetCode and GFG
-  - Competing in hackathons</code></pre>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### EdTech SaaS Platforms
+
+> Learning products that make education feel more personal, trackable, and intelligent.
+
+I enjoy building software that helps students, teachers, and learners move from confusion to clarity through dashboards, AI support, and smoother workflows.
+
+```txt
+STATUS : BUILT / ITERATING
+FOCUS  : dashboards, AI learning flows, student-first UX
+STACK  : Next.js / React / Firebase / Node.js / AI APIs
+```
+
+[![GitHub](https://img.shields.io/badge/VIEW_WORK-GitHub-a855f7?style=for-the-badge&labelColor=1a0a2e&logo=github)](https://github.com/krishrathi1?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### Agentic Workflow Automation
+
+> Systems that reduce manual work by connecting models, tools, and triggers.
+
+From n8n-style automations to LLM-based decision flows, I like building pipelines that can observe, decide, and act with minimal friction.
+
+```txt
+STATUS : EXPERIMENTING + SHIPPING
+FOCUS  : agents, workflows, API chaining, automation logic
+STACK  : n8n / Node.js / Python / Gemini / Cohere / Together AI
+```
+
+[![GitHub](https://img.shields.io/badge/VIEW_WORK-GitHub-c084fc?style=for-the-badge&labelColor=1a0a2e&logo=github)](https://github.com/krishrathi1?tab=repositories)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### Competitive Programming
+## Hackathon Wall
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">LeetCode</h3>
-      <a href="https://leetcode.com/u/krishrathi/">
-        <img width="100%" src="https://leetcard.jacoblin.cool/krishrathi?theme=dark&font=Fira%20Code&ext=heatmap" alt="Krish Rathi LeetCode stats" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">GeeksforGeeks</h3>
-      <br />
-      <p align="center">
-        <a href="https://www.geeksforgeeks.org/profile/krishrathi">
-          <img src="https://img.shields.io/badge/Open%20GFG%20Profile-krishrathi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Open GFG profile" />
-        </a>
-      </p>
-      <p align="center">
-        <b>DSA practice, interview preparation, and problem-solving consistency.</b>
-      </p>
-      <p align="center">
-        I use coding platforms to sharpen fundamentals, pattern recognition, and clean implementation speed.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Result | Event |
+|---|---|
+| Winner | Blostem Hackathon 2026 |
+| Winner | IIT Ropar Hackathon Innovation 2025 |
+| 3rd Prize | AI Agentic Hackathon by Swafinix Technologies |
+| 3rd Prize | U Hack 4.0 |
+| 4th Prize | Amity University App Innovation Challenge |
+| Top 25 | Google 30-Hour Agentic Hackathon |
+| Finalist | LNMIIT Jaipur Hackathon |
+
+</div>
 
 ---
 
-### Hackathon Wall
+## GitHub Stats
 
-<table>
-  <tr>
-    <td align="center"><b>1st</b><br />Blostem Hackathon 2026</td>
-    <td align="center"><b>1st</b><br />IIT Ropar Hackathon Innovation 2025</td>
-    <td align="center"><b>3rd</b><br />AI Agentic Hackathon by Swafinix</td>
-  </tr>
-  <tr>
-    <td align="center"><b>3rd</b><br />U Hack 4.0</td>
-    <td align="center"><b>4th</b><br />Amity App Innovation Challenge</td>
-    <td align="center"><b>Top 25</b><br />Google 30-Hour Agentic Hackathon</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3"><b>Finalist</b><br />LNMIIT Jaipur Hackathon</td>
-  </tr>
-</table>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=krishrathi1&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrathi1&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=8" height="165" alt="Top languages" />
 
-### Tech Arsenal
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,next,nodejs,express,flask,tensorflow,opencv,firebase,mongodb,postgres,mysql,aws,docker,linux,nginx,git,github,vscode&perline=12" alt="Tech stack icons" />
-</p>
+<img src="https://streak-stats.demolab.com?user=krishrathi1&theme=dark&hide_border=true&background=0d0020&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=c084fc&sideNums=a855f7&dates=6b21a8&border_radius=12" height="165" alt="GitHub streak" />
 
-<details open>
-  <summary><b>Core Stack</b></summary>
-  <br />
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  </p>
-</details>
+<br/><br/>
 
-<details open>
-  <summary><b>AI, Cloud, Automation</b></summary>
-  <br />
-  <p>
-    <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cohere-121212?style=flat-square&logo=cohere&logoColor=white" />
-    <img src="https://img.shields.io/badge/Together%20AI-6B4EFF?style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  </p>
-</details>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8&custom_title=Krish%20Rathi%20Contribution%20Graph)](https://github.com/krishrathi1)
+
+</div>
 
 ---
 
-### GitHub Analytics
+## DSA Grind
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishrathi1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Krish%27s%20GitHub%20Stats" alt="Krish Rathi GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=krishrathi1&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrathi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=krishrathi1&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub trophies" />
-</p>
+<a href="https://leetcode.com/u/krishrathi/">
+  <img src="https://leetcard.jacoblin.cool/krishrathi?theme=dark&border=0&radius=8&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/krishrathi1/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
-  </a>
-</p>
+<br/><br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-krishrathi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/krishrathi/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-krishrathi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e)](https://www.geeksforgeeks.org/profile/krishrathi)
+[![DSA Mode](https://img.shields.io/badge/DSA_MODE-Consistency_Over_Hype-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://github.com/krishrathi1)
+
+</div>
 
 ---
 
-### Contribution Arcade
+## System Architecture Of How I Build
+
+```mermaid
+flowchart LR
+    A["Idea"] --> B["Problem framing"]
+    B --> C["MVP architecture"]
+    C --> D["Full-stack build"]
+    D --> E["AI / automation layer"]
+    E --> F["Demo polish"]
+    F --> G["Feedback"]
+    G --> H["Iteration"]
+    H --> C
+```
+
+---
+
+## Contribution Arcade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
@@ -182,48 +254,28 @@ currently:
 
 ---
 
-### What I Bring
+## Find Me
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Product Thinking</b>
-      <br />
-      I like building things that do not just work in demos, but feel clear, useful, and understandable to real users.
-    </td>
-    <td width="33%" valign="top">
-      <b>AI + Automation</b>
-      <br />
-      I enjoy connecting LLMs, tools, workflows, and UI into systems that reduce manual work and unlock faster decisions.
-    </td>
-    <td width="33%" valign="top">
-      <b>Hackathon Speed</b>
-      <br />
-      I am comfortable moving from idea to prototype quickly while keeping the final experience polished and presentable.
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krish-rathi-036222293/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/krishrathi1">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/krishrathi/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a0a2e" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/krishrathi">
+  <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e" alt="GeeksforGeeks" />
+</a>
+
+</div>
 
 ---
 
-### Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krish-rathi-036222293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/krishrathi/">
-    <img src="https://img.shields.io/badge/LeetCode-Follow%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/krishrathi">
-    <img src="https://img.shields.io/badge/GFG-Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting. Build boldly, solve consistently, and keep making ideas real.</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0a2e,100:0d001a&height=110&section=footer" alt="Footer" />
