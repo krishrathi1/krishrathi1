@@ -185,11 +185,19 @@ STACK  : n8n / Node.js / Python / Gemini / Cohere / Together AI
 
 
 
+
+
+<br/><br/>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=krishrathi1&theme=dark&hide_border=true&background=0d0020&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=c084fc&sideNums=a855f7&dates=6b21a8&border_radius=12" height="165" alt="GitHub streak" />
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8&custom_title=Krish%20Rathi%20Contribution%20Graph)](https://github.com/krishrathi1)
+<a href="https://github.com/krishrathi1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8&custom_title=Krish%20Rathi%20Contribution%20Graph" />
+</a>
 
 </div>
 
