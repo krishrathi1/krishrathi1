@@ -182,15 +182,8 @@ STACK  : n8n / Node.js / Python / Gemini / Cohere / Together AI
 
 ---
 
-## GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishrathi1&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishrathi1&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=8" height="165" alt="Top languages" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=krishrathi1&theme=dark&hide_border=true&background=0d0020&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=c084fc&sideNums=a855f7&dates=6b21a8&border_radius=12" height="165" alt="GitHub streak" />
 
