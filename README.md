@@ -19,9 +19,7 @@
 
 ---
 
-<div align="center">
-  <img src="./assets/quote.svg" alt="Quote banner" />
-</div>
+
 
 ## About Me
 
@@ -54,13 +52,7 @@ export default new KrishRathi();
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=krishrathi1&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/krishrathi1)
-
-</div>
 
 ---
 
