@@ -1,25 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050014,30:140026,60:0b1026,100:050014&height=300&section=header&text=Krish%20Rathi&fontSize=86&fontColor=c084fc&animation=fadeIn&fontAlignY=44&desc=AI%2FML%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20Chatbot%20Engineer%20%7C%20DSA%20Grinder&descColor=a855f7&descSize=20&descAlignY=65&stroke=c084fc&strokeWidth=2" alt="Krish Rathi header" />
 
-<br clear="both">
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=17&pause=1500&color=C084FC&center=true&vCenter=true&width=900&lines=Full-Stack+Web+%2B+AI%2FML+Developer;Building+chatbots%2C+AI+platforms%2C+and+automation+systems;Hackathon+wins+%2B+real+shipping+energy;Grinding+DSA+on+LeetCode+and+GeeksforGeeks;Build+fast.+Think+deeply.+Ship+beautifully.)](https://github.com/krishrathi1)
-
-<br/>
-
-<a href="https://github.com/krishrathi1">
-  <img src="https://komarev.com/ghpvc/?username=krishrathi1&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" alt="Profile views" />
-</a>
-<a href="https://github.com/krishrathi1">
-  <img src="https://img.shields.io/github/followers/krishrathi1?style=for-the-badge&logo=github&label=FOLLOWERS&color=a855f7&labelColor=1a0a2e" alt="GitHub followers" />
-</a>
+[`About`](#about-me) &nbsp;·&nbsp; [`Tech Arsenal`](#tech-arsenal) &nbsp;·&nbsp; [`Hackathon Wall`](#hackathon-wall) &nbsp;·&nbsp; [`Analytics`](#github-analytics) &nbsp;·&nbsp; [`DSA Grind`](#dsa-grind) &nbsp;·&nbsp; [`Find Me`](#find-me)
 
 </div>
 
 ---
-
-
 
 ## About Me
 
@@ -50,9 +37,19 @@ class KrishRathi extends Developer {
 export default new KrishRathi();
 ```
 
----
+<br/>
 
+<div align="center">
 
+<a href="https://gitfut.com/krishrathi1">
+  <img src="https://gitfut.com/krishrathi1.png" width="420" alt="Krish Rathi — GitFut player card" />
+</a>
+
+<br/>
+
+<sub><b>My GitHub, scouted.</b> Rated live from real commits, stars &amp; contributions — card updates itself as I ship.</sub>
+
+</div>
 
 ---
 
@@ -82,7 +79,7 @@ export default new KrishRathi();
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" alt="AI ML" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a0a2e" alt="LLMs" />
 <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a0a2e" alt="Gemini AI" />
@@ -101,105 +98,47 @@ export default new KrishRathi();
 
 ---
 
-## Signature Builds
-
-> Real problems. Fast prototypes. Serious polish.
-
----
-
-### AI Chatbot Systems
-
-> Conversational products that turn messy user intent into useful actions.
-
-Built around LLMs, API calls, workflow logic, and human-friendly interfaces. This is where my full-stack work and AI curiosity meet the most.
-
-```txt
-STATUS : ACTIVE BUILD AREA
-FOCUS  : chatbots, AI assistants, prompt flows, tool-connected UX
-STACK  : React / Next.js / Node.js / Python / LLM APIs / Firebase
-```
-
-[![Explore Repos](https://img.shields.io/badge/EXPLORE_REPOS-krishrathi1-c084fc?style=for-the-badge&labelColor=1a0a2e&logo=github)](https://github.com/krishrathi1?tab=repositories)
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### EdTech SaaS Platforms
-
-> Learning products that make education feel more personal, trackable, and intelligent.
-
-I enjoy building software that helps students, teachers, and learners move from confusion to clarity through dashboards, AI support, and smoother workflows.
-
-```txt
-STATUS : BUILT / ITERATING
-FOCUS  : dashboards, AI learning flows, student-first UX
-STACK  : Next.js / React / Firebase / Node.js / AI APIs
-```
-
-[![GitHub](https://img.shields.io/badge/VIEW_WORK-GitHub-a855f7?style=for-the-badge&labelColor=1a0a2e&logo=github)](https://github.com/krishrathi1?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### Agentic Workflow Automation
-
-> Systems that reduce manual work by connecting models, tools, and triggers.
-
-From n8n-style automations to LLM-based decision flows, I like building pipelines that can observe, decide, and act with minimal friction.
-
-```txt
-STATUS : EXPERIMENTING + SHIPPING
-FOCUS  : agents, workflows, API chaining, automation logic
-STACK  : n8n / Node.js / Python / Gemini / Cohere / Together AI
-```
-
-[![GitHub](https://img.shields.io/badge/VIEW_WORK-GitHub-c084fc?style=for-the-badge&labelColor=1a0a2e&logo=github)](https://github.com/krishrathi1?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Hackathon Wall
 
 <div align="center">
 
-| Result | Event |
-|---|---|
-| Winner | Blostem Hackathon 2026 |
-| Winner | IIT Ropar Hackathon Innovation 2025 |
-| 3rd Prize | AI Agentic Hackathon by Swafinix Technologies |
-| 3rd Prize | U Hack 4.0 |
-| 4th Prize | Amity University App Innovation Challenge |
-| Top 25 | Google 30-Hour Agentic Hackathon |
-| Finalist | LNMIIT Jaipur Hackathon |
+| | Result | Event |
+|:---:|---|---|
+| 🥇 | **Winner** | Blostem Hackathon 2026 |
+| 🥇 | **Winner** | IIT Ropar Hackathon Innovation 2025 |
+| 🥉 | **3rd Prize** | AI Agentic Hackathon — Swafinix Technologies |
+| 🥉 | **3rd Prize** | U Hack 4.0 |
+| 🏅 | **4th Prize** | Amity University App Innovation Challenge |
+| 🚀 | **Top 25** | Google 30-Hour Agentic Hackathon |
+| 🎯 | **Finalist** | LNMIIT Jaipur Hackathon |
 
 </div>
 
 ---
 
-
-
-
-
-
-<br/><br/>
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=krishrathi1&theme=dark&hide_border=true&background=0d0020&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=c084fc&sideNums=a855f7&dates=6b21a8&border_radius=12" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=krishrathi1&theme=dark&hide_border=true&background=0d0020&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=c084fc&sideNums=a855f7&dates=6b21a8&border_radius=12" height="180" alt="GitHub streak" />
 
 <br/><br/>
 
 <a href="https://github.com/krishrathi1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8&custom_title=Krish%20Rathi%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishrathi1&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8&custom_title=Krish%20Rathi%20Contribution%20Graph" alt="Contribution graph" />
 </a>
 
 </div>
+
+---
+
+## Contribution Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -215,35 +154,8 @@ STACK  : n8n / Node.js / Python / Gemini / Cohere / Together AI
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-krishrathi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/krishrathi/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-krishrathi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e)](https://www.geeksforgeeks.org/profile/krishrathi)
-[![DSA Mode](https://img.shields.io/badge/DSA_MODE-Consistency_Over_Hype-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://github.com/krishrathi1)
 
 </div>
-
----
-
-## System Architecture Of How I Build
-
-```mermaid
-flowchart LR
-    A["Idea"] --> B["Problem framing"]
-    B --> C["MVP architecture"]
-    C --> D["Full-stack build"]
-    D --> E["AI / automation layer"]
-    E --> F["Demo polish"]
-    F --> G["Feedback"]
-    G --> H["Iteration"]
-    H --> C
-```
-
----
-
-## Contribution Arcade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
