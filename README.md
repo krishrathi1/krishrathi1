@@ -132,32 +132,6 @@ export default new KrishRathi();
 
 ---
 
-## Contribution Arcade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## DSA Grind
-
-<div align="center">
-
-<a href="https://leetcode.com/u/krishrathi/">
-  <img src="https://leetcard.jacoblin.cool/krishrathi?theme=dark&border=0&radius=8&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-</a>
-
-<br/><br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-krishrathi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/krishrathi/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-krishrathi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e)](https://www.geeksforgeeks.org/profile/krishrathi)
-
-</div>
-
----
 
 ## Find Me
 
